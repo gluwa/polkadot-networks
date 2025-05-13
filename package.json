@@ -7,7 +7,7 @@
   },
   "homepage": "https://github.com/polkadot-js/common/tree/master/packages/networks#readme",
   "license": "Apache-2.0",
-  "name": "@gluwa/networks",
+  "name": "@polkadot/networks",
   "repository": {
     "directory": "packages/networks",
     "type": "git",
